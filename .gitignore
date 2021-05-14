@@ -6,6 +6,10 @@ __pycache__/
 # C extensions
 *.so
 
+# Config
+user_data/config.json
+user_data/trades3.sqlite3
+
 # Distribution / packaging
 .Python
 build/
